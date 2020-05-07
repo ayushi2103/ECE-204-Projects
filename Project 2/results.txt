@@ -1,0 +1,5 @@
+0.0   All but diff2
+0.001 All but diff2
+0.005 All but diff2
+0.01  current and int
+0.05  none
